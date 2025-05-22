@@ -1,10 +1,10 @@
-#--------------------------
-#INSTRUÇOES PARA RODAR A VENV
-#----------------------------
-#python -m venv venv
-#venv\Scripts\activate.bat
-#pip install pandas matplotlib seaborn openpyxl
-#----------------------------
+# --------------------------
+# INSTRUÇOES PARA RODAR A VENV
+# ----------------------------
+# python -m venv venv
+# venv\Scripts\activate.bat
+# pip install pandas matplotlib seaborn openpyxl
+# ----------------------------
 
 import pandas as pd
 import matplotlib.pyplot as plt
